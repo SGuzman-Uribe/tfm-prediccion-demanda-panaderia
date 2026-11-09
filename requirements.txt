@@ -1,0 +1,9 @@
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+statsmodels>=0.14
+prophet>=1.1
+xgboost>=2.0
+lightgbm>=4.0
+holidays>=0.40
+matplotlib>=3.8
