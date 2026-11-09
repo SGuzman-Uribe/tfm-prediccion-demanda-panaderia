@@ -1,0 +1,15 @@
+modelo,ambito,WMAPE_%
+lightgbm,global,12.490663436643958
+lightgbm,sin_estacional,12.279013361253991
+ma4,global,18.07435974272831
+ma4,sin_estacional,17.894069533116042
+naive,global,21.182833288101463
+naive,sin_estacional,21.040430986682093
+prophet,global,14.615658054534972
+prophet,sin_estacional,14.48470387769035
+sarima,global,13.318701634467386
+sarima,sin_estacional,13.18177611374911
+snaive,global,18.427545134823465
+snaive,sin_estacional,18.28210383255814
+xgboost,global,12.30728701489984
+xgboost,sin_estacional,12.017748589865827
